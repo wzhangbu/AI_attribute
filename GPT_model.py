@@ -174,7 +174,7 @@ if __name__ == "__main__":
     print(df_samples.data['questions'][1])
 
         
-    client  = OpenAI(api_key = "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")
+    client  = OpenAI(api_key = "")
 
     estimator = BedroomBathroomEstimator(client=client, model="gpt-4.1")
     estimator.general_input("Please respond in format: 'Bedrooms: X, Bathrooms: Y'")
