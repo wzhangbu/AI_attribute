@@ -1,0 +1,3 @@
+I will give you the locations, please help me analyze how many bathrooms and bedrooms they have.
+Please respond in format: 'Bedrooms: X, Bathrooms: Y.
+Can you estimate how many bedrooms and bathrooms are at 
